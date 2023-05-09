@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AutopleX Demo
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Kang
+    family-names: Shan
+    email: kang.shan@warwick.ac.uk
+    affiliation: University of Warwick
+keywords:
+  - >-
+    Connected and automated vehicles, multi-sensor fusion,
+    smart roadside infrastructure, vehicle tracking
+license: GPL-3.0+
+url: https://github.com/kshan2021/AutopleX/releases/tag/v1.0
+
